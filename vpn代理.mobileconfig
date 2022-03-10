@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Yang888641</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.B0017860-6A76-4740-8843-D6E378ECEF21</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>B0017860-6A76-4740-8843-D6E378ECEF21</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.3.117</string>
+			<key>ProxyServerPort</key>
+			<integer>7891</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>GGBOOM</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>vpn代理</string>
+	<key>PayloadIdentifier</key>
+	<string>lu-cydeMacBook-Pro.44B590AB-2612-471F-A9D3-B5100E25B426</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AF72C477-3F3E-4133-B9DF-0608B8223231</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
